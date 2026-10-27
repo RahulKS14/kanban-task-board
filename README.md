@@ -1,5 +1,7 @@
 # Kanban Task Board
 
+🔗 **Live Demo:** [https://kanban-task-board-liard.vercel.app/](https://kanban-task-board-liard.vercel.app/)
+
 Sprint 05 React dashboard for tracking work across **To Do**, **In Progress**, and **Done**. Tasks persist in the browser with LocalStorage, can be edited inline, searched in real time, and moved with buttons or drag-and-drop.
 
 ## Features
